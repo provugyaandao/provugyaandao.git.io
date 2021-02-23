@@ -1,6 +1,6 @@
 # Get started building your personal website
 
-Check the [webpage now](https://jgracia.es/)
+Check the [webpage now](https://provugyaandao.wordpress.com/)
 
 ### Showcase your software development skills
 
